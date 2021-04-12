@@ -1,11 +1,29 @@
-#red {
+.red {
     color: red;
 }
 
-#orange {
+.orange {
     color: orange;
 }
 
-#green {
+.green {
     color: green;
+}
+
+#cards {
+    border: solid black;
+    border-width: 1px;
+}
+
+table td, tr {
+    border: solid black;
+    border-width: 1px;
+    text-align: center;
+    padding: 3px 10px;
+}
+
+.red-container {
+    color: red;
+    border: solid red;
+    border-width: 1px;
 }
